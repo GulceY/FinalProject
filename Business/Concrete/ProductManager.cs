@@ -20,6 +20,7 @@ namespace Business.Concrete
         public List<Product> GetAll()
         {
             return _productDal.GetAll();
+            
 
         }
     }
