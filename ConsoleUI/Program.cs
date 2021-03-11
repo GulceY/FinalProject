@@ -7,12 +7,14 @@ namespace ConsoleUI
 {
     class Program
     {
-        //static void Main(string[] args)
-        //{
-        //    ProductTest();
-        //    //CategoryTest();
 
-        //}
+        static void Main(string[] args)
+        {
+            
+            // producttest();
+            //categorytest();
+
+        }
 
         //private static void CategoryTest()
         //{
@@ -41,7 +43,7 @@ namespace ConsoleUI
         //        Console.WriteLine(result.Message);
         //    }
 
-            
+
         //}
     }
 }
